@@ -14,8 +14,6 @@ trans: linear
 visualworkflow: true
 ---
 
-{{ page.horizontal }}
-{{ page.vertical }}
 
 
 ```
