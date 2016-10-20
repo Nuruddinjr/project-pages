@@ -10,9 +10,17 @@ subtitle: Some Short Description of Post
 category: project1
 published: true
 theme: moon
-trans: concave
+trans: linear
 visualworkflow: true
 ---
+
+{{ page.horizontal }}
+{{ page.vertical }}
+
+
+```
+var a = b;
+```
 
 <!-- Start Writing Below in Markdown -->
 
